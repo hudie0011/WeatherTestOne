@@ -1,0 +1,11 @@
+<litepal>
+    <dbname value="weather_test"/>
+    <version value="1"/>
+    <list>
+        <mapping class="edu.cqut.weathertestone.db.Province"/>
+        <mapping class="edu.cqut.weathertestone.db.City"/>
+        <mapping class="edu.cqut.weathertestone.db.County"/>
+    </list>
+
+
+</litepal>
